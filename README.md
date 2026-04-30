@@ -2,8 +2,6 @@
 
 # ⚙️ Fairdose's Engine Room
 
-<img src="./creative_profile.png" alt="Steampunk profile avatar" width="320" />
-
 `Inventor of digital machinery • Builder of resilient systems • Captain of midnight deploys`
 
 <p>
@@ -14,40 +12,31 @@
 
 </div>
 
----
-
-## 🧭 Captain's Log
-I design and ship pragmatic software with a craftsman's mindset.
-
-- 🔩 I like systems that are clear, fast, and maintainable.
-- 🛠️ I favor shipping over overengineering.
-- 🔥 I turn rough ideas into production-ready products.
-
-## ⚒️ Arsenal
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-3B2A1A?style=flat-square&logo=javascript&logoColor=F7C66F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3B2A1A?style=flat-square&logo=typescript&logoColor=D9A441" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-3B2A1A?style=flat-square&logo=react&logoColor=C98910" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-3B2A1A?style=flat-square&logo=node.js&logoColor=C98910" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3B2A1A?style=flat-square&logo=python&logoColor=D9A441" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-3B2A1A?style=flat-square&logo=postgresql&logoColor=C98910" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-3B2A1A?style=flat-square&logo=docker&logoColor=D9A441" alt="Docker" />
-</p>
-
-## 🛰️ Current Expedition
-- Building modern web experiences with vintage soul.
-- Automating repetitive workflows into reliable pipelines.
-- Refining developer experience and release quality.
-
-## 📡 Transmission Channels
-- Portfolio: `your-portfolio-link`
-- LinkedIn: `your-linkedin-link`
-- Mail: `your-email@domain.com`
-
----
-
 <div align="center">
 
-### "Pressure makes progress. Precision makes it last."
-
+## ⚒️ Arsenal
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-3B2A1A?style=flat-square&logo=node.js&logoColor=C98910" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Vue.js-3B2A1A?style=flat-square&logo=vuedotjs&logoColor=D9A441" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/JavaScript-3B2A1A?style=flat-square&logo=javascript&logoColor=F7C66F" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3B2A1A?style=flat-square&logo=python&logoColor=D9A441" alt="Python" />
+    <img src="https://img.shields.io/badge/Go-3B2A1A?style=flat-square&logo=go&logoColor=C98910" alt="Go" />
+    <img src="https://img.shields.io/badge/Rust-3B2A1A?style=flat-square&logo=rust&logoColor=D9A441" alt="Rust" />
+    <img src="https://img.shields.io/badge/PostgreSQL-3B2A1A?style=flat-square&logo=postgresql&logoColor=C98910" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Linux-3B2A1A?style=flat-square&logo=linux&logoColor=D9A441" alt="Linux" />
+    <img src="https://img.shields.io/badge/Bash-3B2A1A?style=flat-square&logo=gnubash&logoColor=C98910" alt="Bash" />
+    <img src="https://img.shields.io/badge/Nginx-3B2A1A?style=flat-square&logo=nginx&logoColor=D9A441" alt="Nginx" />
+    <img src="https://img.shields.io/badge/CI%2FCD-3B2A1A?style=flat-square&logo=githubactions&logoColor=C98910" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/AWS-3B2A1A?style=flat-square&logo=amazonwebservices&logoColor=D9A441" alt="AWS" />
+    <img src="https://img.shields.io/badge/GCP-3B2A1A?style=flat-square&logo=googlecloud&logoColor=C98910" alt="GCP" />
+    <img src="https://img.shields.io/badge/Docker-3B2A1A?style=flat-square&logo=docker&logoColor=D9A441" alt="Docker" />
+  </p>
 </div>
+
+<div align="center">
+  
+## 📡 Transmission Channels
+
+[Website](https://fairdose.net) - [GitHub](https://github.com/Fairdose) - [LinkedIn](https://www.linkedin.com/in/batur-akcura) - [Mail](mailto:baturakcura.dev@gmail.com)
+</div>
+
