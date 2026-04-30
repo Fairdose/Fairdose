@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Fairdose's Engine Room ⚙️
+<img src="fairdose_header.webp" alt="Fairdose Engine" />
 
 `Use the right tools for the right job`
 
