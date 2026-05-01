@@ -66,7 +66,7 @@
 
 <div align="center">
   
-[Website](https://fairdose.net) - [GitHub](https://github.com/Fairdose) - [LinkedIn](https://www.linkedin.com/in/batur-akcura) - [Mail](mailto:baturakcura.dev@gmail.com)
+[Website](https://fairdose.net) - [LinkedIn](https://www.linkedin.com/in/batur-akcura) - [Mail](mailto:baturakcura.dev@gmail.com)
 
 </div>
  
