@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-3B2A1A?style=flat-square&logo=bootstrap&logoColor=C98910" />
     <img src="https://img.shields.io/badge/SASS-3B2A1A?style=flat-square&logo=sass&logoColor=D9A441" />
     <img src="https://img.shields.io/badge/PostCSS-3B2A1A?style=flat-square&logo=postcss&logoColor=C98910" />
+    <img src="https://img.shields.io/badge/WebGL-3B2A1A?style=flat-square&logo=webgl&logoColor=C98910" />
+    <img src="https://img.shields.io/badge/Canvas%20API-3B2A1A?style=flat-square&logo=html5&logoColor=D9A441" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </td>
 </tr>
@@ -48,6 +50,7 @@
     <img src="https://img.shields.io/badge/AWS-3B2A1A?style=flat-square&logo=amazonwebservices&logoColor=D9A441" />
     <img src="https://img.shields.io/badge/GCP-3B2A1A?style=flat-square&logo=googlecloud&logoColor=C98910" />
     <img src="https://img.shields.io/badge/Bash-3B2A1A?style=flat-square&logo=gnubash&logoColor=C98910" />
+    <img src="https://img.shields.io/badge/Bare--Metal-3B2A1A?style=flat-square&logo=server&logoColor=D9A441" />
   </td>
 </tr>
 
