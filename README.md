@@ -2,8 +2,6 @@
 
 <img src="fairdose_header.webp" alt="Fairdose Engine" />
 
---`Use the right tools for the right job`--
-
 </div>
 
 <table align="center">
@@ -65,7 +63,9 @@
 </table>
 
 <div align="center">
-  
+
+<em align="center">Use the right tools for the right job</em>
+
 [Website](https://fairdose.net) - [LinkedIn](https://www.linkedin.com/in/batur-akcura) - [Mail](mailto:baturakcura.dev@gmail.com)
 
 </div>
