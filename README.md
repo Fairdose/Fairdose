@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="fairdose_header.webp" alt="Fairdose Engine" />
+<img src="fairdose_header.webp" alt="Fairdose Engine - Made with Canvas API and rendered purely in browser" />
+
+<small><em>Made with Canvas API and rendered purely in browser</em></small>
 
 </div>
 
